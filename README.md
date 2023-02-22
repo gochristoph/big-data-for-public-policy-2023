@@ -5,7 +5,21 @@ This course provides an introduction to big data methods for public policy analy
 
 **Lecturers:** Sergio Galletta, Elliott Ash, Christoph Goessmann
 
-
-
+## Tentative Schedule
+| #  | Date        | Lecture                        | Lecturer           |
+|----|-------------|--------------------------------|--------------------|
+| 01 | 23 February | **Overview of the class**      | Galletta           |
+| 02 | 2 March     | **Working with (big) data I**  | Goessmann          |
+| 03 | 9 March     | **Applied Micro Methods I**    | Galletta           |
+| 04 | 16 March    | **Working with (big) data II** | Goessmann          |
+| 05 | 23 March    | **Applied Micro Methods II**   | Galletta           |
+| 06 | 30 March    | **Machine Learning Intro**     | Goessmann          |
+| 07 | 6 April     | **Supervised ML**              | Galletta           |
+| 08 | 20 April    | **SDG Monitor**                | Goessmann          |
+| 09 | 27 April    | **Unsupervised ML**            | Galletta           |
+| 10 | 4 May       | **TBD**                        | Galletta           |
+| 11 | 11 May      | **NLP**                        | Ash                |
+| 12 | 25 May      | **AI and Fairness**            | Galletta           |
+| 13 | 1 June      | **Final lecture**              | Galletta/Goessmann |
 
 
