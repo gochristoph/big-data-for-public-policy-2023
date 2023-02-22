@@ -14,8 +14,8 @@ This course provides an introduction to big data methods for public policy analy
 | 04 | 16 March    | **Working with (big) data II**                                 | Goessmann          |
 | 05 | 23 March    | **Applied Micro Methods II**                                   | Galletta           |
 | 06 | 30 March    | **Machine Learning Intro**                                     | Goessmann          |
-| 07 | 6 April     | **Supervised ML**                                              | Galletta           |
-| 08 | 20 April    | **Web Apps, APIs, [SDG Monitor](https://sdg-monitor.ethz.ch)** | Goessmann          |
+| 08 | 6 April     | **Web Apps, APIs, [SDG Monitor](https://sdg-monitor.ethz.ch)** | Goessmann          |
+| 07 | 20 April    | **Supervised ML**                                              | Galletta           |
 | 09 | 27 April    | **Unsupervised ML**                                            | Galletta           |
 | 10 | 4 May       | **TBD**                                                        | Galletta           |
 | 11 | 11 May      | **NLP**                                                        | Ash                |
