@@ -5,6 +5,9 @@ This course provides an introduction to data science and applied economics metho
 
 **Lecturers:** [Sergio Galletta](https://sergio-galletta.com), [Elliott Ash](https://elliottash.com), [Christoph Goessmann](https://goessmann.io)
 
+**[Syllabus](https://docs.google.com/document/d/1xq6VY1E7aHfOmdhbppT64RzFY0vRpJDgjRWbJkisezQ/edit#)** and
+**[in-class presentation schedule](https://docs.google.com/spreadsheets/d/1iDx9FtRQfBkN-mNEXWmrO0kep8TtQikNCiuLueZ3nws/edit#gid=0)**
+
 ## Tentative Schedule
 | #  | Date        | Lecture                                                        | Lecturer           |
 |----|-------------|----------------------------------------------------------------|--------------------|
