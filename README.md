@@ -19,8 +19,8 @@ This course provides an introduction to data science and applied economics metho
 | 08 | 6 April     | **Web Apps, APIs, [SDG Monitor](https://sdg-monitor.ethz.ch)** | Goessmann          |
 | 07 | 20 April    | **Supervised ML**                                              | Galletta           |
 | 09 | 27 April    | **Unsupervised ML**                                            | Galletta           |
-| 10 | 4 May       | **TBD**                                                        | Galletta           |
-| 11 | 11 May      | **NLP**                                                        | Ash                |
+| 10 | 4 May       | **NLP**                                                        | Ash                |
+| 11 | 11 May      | **Guest Lecture**                                              | Ash                |
 | 12 | 25 May      | **AI and Fairness**                                            | Galletta           |
 | 13 | 1 June      | **Final lecture**                                              | Galletta/Goessmann |
 
