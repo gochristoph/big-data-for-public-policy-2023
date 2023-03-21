@@ -20,7 +20,7 @@ This course provides an introduction to data science and applied economics metho
 | 07 | 20 April    | **Supervised ML**                                              | Galletta           |
 | 09 | 27 April    | **Unsupervised ML**                                            | Galletta           |
 | 10 | 4 May       | **NLP**                                                        | Ash                |
-| 11 | 11 May      | **Guest Lecture (Dean Knox - University of Pennsylvania)**     | Ash                |
+| 11 | 11 May      | **Guest Lecture ([Dean Knox](http://www.dcknox.com/) - University of Pennsylvania)**     | Ash                |
 | 12 | 25 May      | **AI and Fairness**                                            | Galletta           |
 | 13 | 1 June      | **Project presentations, final lecture**                       | Galletta/Goessmann |
 
