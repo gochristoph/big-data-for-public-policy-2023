@@ -16,8 +16,8 @@ This course provides an introduction to data science and applied economics metho
 | 04 | 16 March    | **Working with (big) data II**                                 | Goessmann          |
 | 05 | 23 March    | **Applied Micro Methods II**                                   | Galletta           |
 | 06 | 30 March    | **Machine Learning Intro**                                     | Goessmann          |
-| 08 | 6 April     | **Web Apps, [SDG Monitor](https://sdg-monitor.ethz.ch)**       | Goessmann          |
-| 07 | 20 April    | **Supervised ML**                                              | Galletta           |
+| 07 | 6 April     | **Web Apps, [SDG Monitor](https://sdg-monitor.ethz.ch)**       | Goessmann          |
+| 08 | 20 April    | **Supervised ML**                                              | Galletta           |
 | 09 | 27 April    | **Unsupervised ML**                                            | Galletta           |
 | 10 | 4 May       | **NLP**                                                        | Ash                |
 | 11 | 11 May      | **Guest Lecture ([Dean Knox](http://www.dcknox.com/) - University of Pennsylvania)**     | Ash                |
