@@ -7,6 +7,8 @@ This course provides an introduction to data science and applied economics metho
 
 **Student presentations**: Please choose a paper and sign up for a presentation slot in the [presentation schedule](https://docs.google.com/spreadsheets/d/1iDx9FtRQfBkN-mNEXWmrO0kep8TtQikNCiuLueZ3nws/edit#gid=0) with your group **by 19 March** (see the corresponding section of the [syllabus](https://docs.google.com/document/d/1xq6VY1E7aHfOmdhbppT64RzFY0vRpJDgjRWbJkisezQ/edit#heading=h.v2jrh9kxmbm1)). If you would like us to match you into a group with somebody else, please also let us know by the same date.
 
+**Student projects**: Please choose a project and register it with us **by 9 April** [here](https://docs.google.com/spreadsheets/d/1iDx9FtRQfBkN-mNEXWmrO0kep8TtQikNCiuLueZ3nws/edit#gid=0). Projects presentations are on **1 June**.
+
 ## Tentative Schedule
 | #  | Date        | Lecture                                                        | Lecturer           |
 |----|-------------|----------------------------------------------------------------|--------------------|
