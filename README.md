@@ -7,7 +7,9 @@ This course provides an introduction to data science and applied economics metho
 
 **Student presentations**: Please choose a paper and sign up for a presentation slot in the [presentation schedule](https://docs.google.com/spreadsheets/d/1iDx9FtRQfBkN-mNEXWmrO0kep8TtQikNCiuLueZ3nws/edit#gid=0) with your group **by 19 March** (see the corresponding section of the [syllabus](https://docs.google.com/document/d/1xq6VY1E7aHfOmdhbppT64RzFY0vRpJDgjRWbJkisezQ/edit#heading=h.v2jrh9kxmbm1)). If you would like us to match you into a group with somebody else, please also let us know by the same date.
 
-**Student projects**: Please choose a project and register it with us **by 9 April** [here](https://docs.google.com/spreadsheets/d/1iDx9FtRQfBkN-mNEXWmrO0kep8TtQikNCiuLueZ3nws/edit#gid=0). Projects presentations are on **1 June**.
+**Student projects**: Please choose a project and register it with us **by 9 April** [here](https://docs.google.com/spreadsheets/d/1iDx9FtRQfBkN-mNEXWmrO0kep8TtQikNCiuLueZ3nws/edit#gid=0). 
+* Projects presentations are on **1 June**. 
+* By **21 July** you will have to hand in your paper/web app including the replication package. Please use [this link](https://polybox.ethz.ch/index.php/s/D98ToGWyWD7wxFL) to submit your poject using the naming scheme `project_group_[#]_[app/paper].zip`.
 
 ## Tentative Schedule
 | #  | Date        | Lecture                                                        | Lecturer           |
@@ -24,6 +26,6 @@ This course provides an introduction to data science and applied economics metho
 | 10 | 4 May       | **NLP**                                                        | Ash                |
 | 11 | 11 May      | **Guest Lecture ([Dean Knox](http://www.dcknox.com/) - University of Pennsylvania)**     | Ash                |
 | 12 | 25 May      | **AI and Fairness**                                            | Galletta           |
-| 13 | 1 June      | **Project presentations, final lecture**                       | Galletta/Goessmann |
+| 13 | 1 June      | **Project presentations, final lecture**                       | Goessmann          |
 
 
