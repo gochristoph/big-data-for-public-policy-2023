@@ -9,7 +9,7 @@ This course provides an introduction to data science and applied economics metho
 
 **Student projects**: Please choose a project and register it with us **by 9 April** [here](https://docs.google.com/spreadsheets/d/1iDx9FtRQfBkN-mNEXWmrO0kep8TtQikNCiuLueZ3nws/edit#gid=0). 
 * Projects presentations are on **1 June**. 
-* By **21 July** you will have to hand in your paper/web app including the replication package. Please use [this link](https://polybox.ethz.ch/index.php/s/D98ToGWyWD7wxFL) to submit your poject using the naming scheme `project_group_[#]_[app/paper].zip`.
+* By **21 July** you will have to hand in your paper/web app including the replication package. Please use [this link](https://polybox.ethz.ch/index.php/s/D98ToGWyWD7wxFL) to submit your project using the naming scheme `project_group_[#]_[app/paper].zip`.
 
 ## Tentative Schedule
 | #  | Date        | Lecture                                                        | Lecturer           |
